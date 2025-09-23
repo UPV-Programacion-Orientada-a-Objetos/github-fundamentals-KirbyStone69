@@ -1,0 +1,9 @@
+Holaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+en estos días aprendí esto :
+
+Repositorios: Son como carpetas para guardar proyectos.
+<br>
+Commits: Son "puntos de guardado" como en los videojuegos 
+<br>
+Ramas (Branches): para trabajar fuera de peligro con el main
